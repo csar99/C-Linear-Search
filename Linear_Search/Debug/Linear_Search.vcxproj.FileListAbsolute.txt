@@ -1,0 +1,2 @@
+C:\Users\Acer\Desktop\C for GitHub\Linear_Search\Debug\Linear_Search.exe
+C:\Users\Acer\Desktop\C for GitHub\Linear_Search\Debug\Linear_Search.pdb
